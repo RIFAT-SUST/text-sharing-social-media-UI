@@ -1,0 +1,49 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 100vh;
+}
+
+.post-card {
+  margin: 30px 300px;
+  min-width: 30rem;
+ 
+}
+
+.hashtag {
+  margin: 0px 3px;
+}
+
+.reaction {
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+
+.create-post {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 15px;
+}
+
+.heading {
+  margin-top: 120px;
+  font-size: 2rem;
+  font-weight: 500;
+  color:black;
+}
+
+.bottom-heading{
+  margin-top: 30px;
+}
+
+.button{
+  margin-top: 20px;
+  font-weight: 700;
+  border: 1px solid black;
+}
